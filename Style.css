@@ -1,0 +1,60 @@
+body {
+margin: 0;
+text-align:center;
+font-family: 'Merienda One', cursive ;
+}
+
+.top-container{
+background-color: #E4F9F5;
+position: relative;
+padding-top: 100px;
+}
+
+.top-cloud {
+position: absolute;
+right: 300px;
+top: 40px;
+}
+
+.bottom-cloud {
+position: absolute;
+left: 250px;
+bottom: 300px;
+}
+
+.pro{
+text-decoration: underline;
+}
+
+
+h1 {
+color: #66BFBF;
+font-size: 50px;
+margin:0;
+padding:0;
+
+}
+
+h2 {
+color:#a8d0fb;
+margin:0;
+padding:0;
+}
+h3{
+  color:#e07b47;
+}
+.dashie{
+  border-style: none;
+  border-top-style:dotted;
+  border-color:#b91bcc61;
+  border-width:medium;
+  width:35%
+}
+
+.lucie{
+  border-style: none;
+  border-top-style:dotted;
+  border-color:#b91bcc61;
+  border-width:medium;
+  width:35%
+}
